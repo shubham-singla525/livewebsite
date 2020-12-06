@@ -45,7 +45,7 @@ p{
   width: 20%;
   border-radius: 100%;
   padding-bottom: 20px;
-  transform: rotate(90deg);
+ /* transform: rotate(90deg);*/
 
   /* image-orientation: */
 }
